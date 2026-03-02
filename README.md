@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Abdullah Daniyal!</h1>
-<h3 align="center">Software Engineer by Profession.</h3>
+<h3 align="center">Software Engineer by @ VectorAI and @ TrilletAI</h3>
 
 <p align="center">
   <img align="center" alt="coding" width="500" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
