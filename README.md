@@ -4,15 +4,6 @@
 
 I build end-to-end products, from the first client call to production: web platforms, CRMs, e-commerce and real-time voice AI.
 
-### 🔭 Featured work
-
-| Project | What it is | Built with |
-|---|---|---|
-| [**Smart License**](https://github.com/huzi0906/SmartLicense_AdminSide) | Pakistan's first automated driving license testing system, built with Islamabad Traffic Police. In-car sensors and a camera feed a Raspberry Pi, and a server scores each test automatically. | Python · OpenCV · YOLO · Raspberry Pi · Next.js |
-| [**Medical Imaging & Radiology**](https://github.com/Fatimaqurban/MedicalImagingandRadiology) | Web app that classifies medical scans across disease categories, with dataset management and in-app model training. | Flask · TensorFlow · Keras |
-| [**MLOps Weather Pipeline**](https://github.com/abdullah-daniyal/MLOps-Weather-Pipeline) | End-to-end MLOps pipeline: data and model versioning, scheduled retraining and a served prediction API. | DVC · MLflow · Airflow · Docker · Kubernetes |
-| [**PDFSlim**](https://github.com/abdullah-daniyal/PDFSlim) | Free, lightweight PDF editor for highlighting and cropping, no cloud and no sign-up. | TypeScript · React · Vite |
-
 ### 🛠 Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
